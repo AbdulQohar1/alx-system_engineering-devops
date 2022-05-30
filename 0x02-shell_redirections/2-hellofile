@@ -1,2 +1,2 @@
-#!/vin/[D[D[b[C[C[Cbash
+#!/bin/bash
 cat /etc/passwd
