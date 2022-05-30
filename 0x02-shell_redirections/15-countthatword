@@ -1,2 +1,2 @@
 #!/bin/bash
-grep bin /etc[D[D[D[C[C[C/passwd | wc -l
+grep bin /etc/passwd | wc -l
